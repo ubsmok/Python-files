@@ -28,3 +28,4 @@ dr = []
 print(string.punctuation)
 dr = string.punctuation
 print(dr)
+print(dr)
